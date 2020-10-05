@@ -1,0 +1,13 @@
+/*
+This is a simple code to delete branches from Github Web by using the console.
+In my case I use to delete stale branches going to:
+https://github.com/user/repository/branches/stale
+and then on the console execute: 
+*/
+
+var numRepeat = document.querySelectorAll(".octicon-trashcan").length;
+for (var i = 0; i < numRepeat; ++i) {
+    document.getElementsByClassName("octicon-trashcan")[i].parentElement.click();    
+}
+
+
