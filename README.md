@@ -1,7 +1,5 @@
 ### Hi there 👋
-I am a passionate developer who loves challenges. 
+I'm a passionate developer who thrives on solving challenges and building innovative solutions.
 
-### How to reach me 🌎
-
-[![Linkedin Badge](https://img.shields.io/badge/-musky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/musky)](https://www.linkedin.com/in/musky)
-[![Gmail Badge](https://img.shields.io/badge/-muskys@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muskys@gmail.com)](mailto:muskys@gmail.com)
+### Get in Touch ✉️
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/musky) 
